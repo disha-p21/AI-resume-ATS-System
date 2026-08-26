@@ -587,12 +587,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 👩‍💻 Author
-
-Developed as an AI/NLP project focused on applying modern artificial intelligence techniques to real-world recruitment and career-development problems.
-
----
-
 # ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
